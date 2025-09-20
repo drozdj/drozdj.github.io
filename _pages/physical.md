@@ -9,6 +9,7 @@ nav_order: 2
 
 ## Cycling
 <!-- https://www.procyclingcoaching.com/resources/fitness-ftp-calculator -->
+ 
 ⬜️Qualify for CAT2 in the 21-24 age group range.
 - **FTP** 
     - **Goal?** 4.0W/kg (280W) -> 4.5W/kg (315W)
@@ -20,4 +21,4 @@ nav_order: 2
 - **Weight.** 
     - **Goal?** 70KG @ 10%
         - **21.02.25.** 73.8KG @ 12.5%
-        - **30.03.25.** <!-- TODO: -->
+        - **30.03.25.** TODO: 
